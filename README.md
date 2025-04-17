@@ -67,8 +67,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=imSutirtha&icon=1&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/iamsgm10?country.x=IN&locale.x=en_GB) 
+## 💰 You can help me by Donating
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://paypal.me/iamsgm10?country.x=IN&locale.x=en_GB)
 
 ---
 
@@ -79,4 +79,9 @@
 
 ---
 
-⭐ **Let's build something amazing together!** 🚀  
+⭐ **Let's build something amazing together!** 🚀
+
+---
+
+### 📦 Library Badge
+[![](https://jitpack.io/v/imSutirtha/PermissionChecker.svg)](https://jitpack.io/#imSutirtha/PermissionChecker)
